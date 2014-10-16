@@ -8,8 +8,9 @@
 </head>
 <body>
 <div ng-app="myApp" ng-controller="myCtrl as mc">
-    No filter:{{ firstName + " " + lastName }}<br>    
-    FullName + uppercase: {{fullName() | uppercase}}<br>
+    No filter:{{ mc.firstName + " " + mc.lastName }}<br>
+    Reverse: {{mc.firstName | reverse}}<br>
+    Reverse + uppercase: {{mc.fullName() | reverse}}<br>
 </div>
 </body>
 </html>

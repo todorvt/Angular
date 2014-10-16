@@ -28,8 +28,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4285715" vertical-offset="0" max-vertical-offset="3383">
-              <caret line="4" column="76" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="76" />
+            <state vertical-scroll-proportion="-1.8214285" vertical-offset="0" max-vertical-offset="3502">
+              <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -130,7 +130,11 @@
       <created>1413451895120</created>
       <updated>1413451895120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;AngLab1/.idea/workspace.xml&#10;">
+      <created>1413451909801</created>
+      <updated>1413451909801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -181,8 +185,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4285715" vertical-offset="0" max-vertical-offset="1921">
-          <caret line="4" column="76" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="76" />
+        <state vertical-scroll-proportion="-1.8214285" vertical-offset="0" max-vertical-offset="3502">
+          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
           <folding />
         </state>
       </provider>

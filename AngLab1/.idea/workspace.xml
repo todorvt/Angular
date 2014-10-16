@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77c7c703-ece3-4536-9efb-a0085c4a2c71" name="Default" comment="aaa&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/AngLab2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/HttpRequest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/Modules.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/customers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/customersController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../AngLab2/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Project\WebStorm\Angular\AngLab1\HttpRequest.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Project\WebStorm\Angular\AngLab1\customers.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Project\WebStorm\Angular\AngLab1\customersController.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Project\WebStorm\Angular\AngLab1\index2.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Filters.html" afterPath="$PROJECT_DIR$/Filters.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modules.html" afterPath="$PROJECT_DIR$/Modules.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+    <list default="true" id="77c7c703-ece3-4536-9efb-a0085c4a2c71" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AngLab1.iws" />
@@ -233,11 +212,15 @@
       <created>1413446312546</created>
       <updated>1413446312546</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aaa&#10;">
+      <created>1413451088073</created>
+      <updated>1413451088073</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />

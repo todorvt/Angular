@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+</head>
+<body ng-app="">
+<div ng-controller="personController">
+
+    First Name: <input type="text" ng-model="person.firstName"><br>
+    Last Name: <input type="text" ng-model="person.lastName"><br>
+    <br>
+    Full Name: {{fullName()}}
+
+</div>
+
+<div ng-controller="namesController">
+    <ul>
+        <li ng-repeat="x in names">
+            {{ (x.name)  + ', ' + x.country }}
+        </li>
+    </ul>
+
+</div>
+
+<script src="namesController.js"></script>
+<script src="personController.js"></script>
+
+
+</body>
+</html>

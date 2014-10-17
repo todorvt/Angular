@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a551a389-1e86-4e69-8427-2d187f10f042" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngLab1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AngLab1/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AngLab2.iws" />
@@ -238,7 +237,11 @@
       <created>1413551272306</created>
       <updated>1413551272306</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;AngLab1/.idea/workspace.xml&#10;">
+      <created>1413551286993</created>
+      <updated>1413551286993</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">

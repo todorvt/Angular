@@ -14,25 +14,33 @@
             background-color: #ffffff;
         }
     </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
     <script src="customersController.js"></script>
 </head>
 
 <body>
 
-<div ng-app="" ng-controller="customersController">
-
-    <table>
-        <tr ng-repeat="x in names | orderBy : 'Country'">
+<div ng-app="myApp" ng-controller="customersController as cc">
+    <table width="50%">
+        <tr ng-repeat-start="x in cc.names | orderBy : 'Country'">
             <td>{{ x.Name }}</td>
             <td>{{ x.Country | uppercase }}</td>
+            <td><img width="100" ng-src="{{x.img}}" alt=""/></td>
+            <td>
+                <button  ng-show="x.showInfo" ng-click="cc.viewInfo(x)">Hide CV</button>
+                <button  ng-hide="x.showInfo" ng-click="cc.viewInfo(x)">View CV</button>
+            </td>
+        </tr>
+        <tr ng-repeat-end ng-show="x.showInfo">
+            <td colspan="4">{{ x.CV }}</td>
         </tr>
     </table>
-
+    <input type="checkbox" ng-model="cfm">Confirmed
+    <input type="submit" value="Submit" onclick="alert('Data submitted!')" ng-disabled="!cfm"/>
 </div>
 
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
 
 </body>
 </html>

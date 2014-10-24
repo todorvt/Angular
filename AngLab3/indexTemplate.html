@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html ng-app="gemStore">
+
+  <head>
+    <meta charset="utf-8" />
+    <title>AngularJS</title>
+    <link data-require="bootstrap-css" data-semver="3.1.1" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script data-require="angular.js@1.2.x" src="http://code.angularjs.org/1.2.15/angular.js" data-semver="1.2.15"></script>
+    <script src="app.js"></script>
+  </head>
+
+  <body ng-controller="StoreController as store">
+    <!--  Store Header  -->
+    <header>
+      <h1 class="text-center">Flatlander Crafted Gems</h1>
+      <h2 class="text-center">– an Angular store –</h2>
+    </header>
+    
+    <!--  Products Container  -->
+    <div class="list-group">
+      <!--  Product Container  -->
+      <div class="list-group-item">
+        
+        <!-- $index Practice:  -->
+        <h3>
+        </h3>
+        
+        <!-- Image Gallery  -->
+        <div ng-show="product.images.length" ng-controller="GalleryController as gallery">
+
+        </div>
+        
+        <!-- Product Tabs  -->
+
+        
+      </div>
+    </div>
+  </body>
+
+</html>

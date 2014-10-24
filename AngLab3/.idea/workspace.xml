@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="48dd73cf-c379-48b8-b17e-fccf80acdb6f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngLab3_Step1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AngLab3_Step1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AngLab3_Step2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AngLab3_Step2/.idea/workspace.xml" />
     </list>
     <ignored path="AngLab3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,7 +214,11 @@
       <created>1414155124521</created>
       <updated>1414155124521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="as">
+      <created>1414155139288</created>
+      <updated>1414155139288</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
